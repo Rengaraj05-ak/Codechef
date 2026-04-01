@@ -13,3 +13,7 @@ Sugarcane Juice Business:
 While Alice was drinking sugarcane juice, she started wondering about the following facts:
 The juicer sells each glass of sugarcane juice for 50 coins.He spends 20%,20% of his total income on buying sugarcane.
 He spends 20% of his total income on buying salt and mint leaves.He spends 30% of his total income on shop rent.
+
+CAR OR BIKE:
+if Bike takes x minutes and car takes y minutes.
+if bike speed is greater then to print the BIKE,else carspeed is greater than bike to print the car.if both vehicle speed is same to print the SAME.
