@@ -1,0 +1,36 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+	    Scanner sc=new Scanner(System.in);
+	    int n=sc.nextInt();
+	    for(int i=0;i<n;i++)
+	    {
+	        int x=sc.nextInt();
+	        int totalincome=50*x;
+	        int sugarcane=(totalincome*20/100);
+	        int saltmintleaves=(totalincome*20/100);
+	        int rent=(totalincome*30/100);
+	        int profit=totalincome-(sugarcane+saltmintleaves+rent);
+	        System.out.println(profit);
+	    }
+	}
+}
+Input:
+4
+2
+4
+5
+10
+Output:
+30
+60
+75
+150
+
+Time Completely:O(N)
+Space Complexity:O(1)
