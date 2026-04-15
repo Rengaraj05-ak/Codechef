@@ -19,4 +19,4 @@ if Bike takes x minutes and car takes y minutes.
 if bike speed is greater then to print the BIKE,else carspeed is greater than bike to print the car.if both vehicle speed is same to print the SAME.
 
 Candy Distribution:
-Chef can distribute the candy .The candies has 9 and friends has 3.Equally split the  Ccandy for every friends.if spliting candies in odd for every friends print the NO.Ottherwise print YES
+Chef can distribute the candy .The candies has 9 and friends has 3.Equally split the  Ccandy for every friends.if spliting candies in odd for every friends print the NO.Otherwise print YES
